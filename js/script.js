@@ -14,3 +14,11 @@ $(function (){
         }
     });
 });
+
+    //botão carregar mais
+    $('.loadmore').click(function() {
+        alert('Botão não programado!")
+    }
+
+
+    
